@@ -1,0 +1,79 @@
+{
+  "mean": {
+    "p@1": 1.0,
+    "p@3": 0.8,
+    "p@5": 0.7
+  },
+  "per_question": [
+    {
+      "question": "What three sub-domains does the Physical AI survey use in its taxonomy?",
+      "source": "Physical_AI.pdf",
+      "p@1": 1.0,
+      "p@3": 0.6666666666666666,
+      "p@5": 0.6
+    },
+    {
+      "question": "How do hard constraints differ from soft integration when embedding physical laws into neural networks?",
+      "source": "Physical_AI.pdf",
+      "p@1": 1.0,
+      "p@3": 0.6666666666666666,
+      "p@5": 0.8
+    },
+    {
+      "question": "Which techniques are used to bridge the sim-to-real gap for embodied agents?",
+      "source": "Physical_AI.pdf",
+      "p@1": 1.0,
+      "p@3": 1.0,
+      "p@5": 0.6
+    },
+    {
+      "question": "How did GPU hardware and CUDA drive the evolution of AI and physical simulation?",
+      "source": "Physical_AI.pdf",
+      "p@1": 1.0,
+      "p@3": 0.6666666666666666,
+      "p@5": 0.4
+    },
+    {
+      "question": "What are the main components of an LLM agent?",
+      "source": "LLM_Agent_Security.pdf",
+      "p@1": 1.0,
+      "p@3": 1.0,
+      "p@5": 0.8
+    },
+    {
+      "question": "What are the two types of threats that LLM agents inherit from LLMs?",
+      "source": "LLM_Agent_Security.pdf",
+      "p@1": 1.0,
+      "p@3": 0.6666666666666666,
+      "p@5": 0.8
+    },
+    {
+      "question": "How does spotlighting defend against indirect prompt injection?",
+      "source": "LLM_Agent_Security.pdf",
+      "p@1": 1.0,
+      "p@3": 1.0,
+      "p@5": 0.8
+    },
+    {
+      "question": "What are the differences between Codeware, Neuralware, Promptware and Agentware?",
+      "source": "Rethinking_SE_Foundation_Models.pdf",
+      "p@1": 1.0,
+      "p@3": 1.0,
+      "p@5": 1.0
+    },
+    {
+      "question": "Why is crafting effective prompts a challenge for FMware development?",
+      "source": "Rethinking_SE_Foundation_Models.pdf",
+      "p@1": 1.0,
+      "p@3": 0.6666666666666666,
+      "p@5": 0.6
+    },
+    {
+      "question": "Why is testing FMware difficult under non-determinism?",
+      "source": "Rethinking_SE_Foundation_Models.pdf",
+      "p@1": 1.0,
+      "p@3": 0.6666666666666666,
+      "p@5": 0.6
+    }
+  ]
+}

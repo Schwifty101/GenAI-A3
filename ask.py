@@ -5,7 +5,7 @@ from ingest import COLLECTION, DB_DIR, EMBED_MODEL
 from prompts import SYSTEM_PROMPT, USER_TEMPLATE
 
 K = 5
-THRESHOLD = 0.30
+THRESHOLD = 0.35
 GEN_MODEL = "Qwen/Qwen2.5-1.5B-Instruct"
 NO_INFO = "I don't have that information."
 
